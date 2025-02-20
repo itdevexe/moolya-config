@@ -1,6 +1,5 @@
 {
   "rewrites": [
-
     {"source": "/fix-a-bug", "destination": "https://fix-a-bug.vercel.app/"},
     {"source": "/fix-a-bug/:match*", "destination": "https://fix-a-bug.vercel.app/:match*"},
 
