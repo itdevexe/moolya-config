@@ -13,7 +13,10 @@
 
     
     {"source": "/software-testing", "destination": "https://fix-a-bug-software-testing.vercel.app/"},
-    {"source": "/software-testing/:match*", "destination": "https://fix-a-bug-software-testing.vercel.app/:match*"}
+    {"source": "/software-testing/:match*", "destination": "https://fix-a-bug-software-testing.vercel.app/:match*"},
+
+    {"source": "/security-testing", "destination": "https://fix-a-bug-security-testing-zyaf.vercel.app/"},
+    {"source": "/security-testing/:match*", "destination": "https://fix-a-bug-security-testing-zyaf.vercel.app/:match*"}
     ]
 }
 
