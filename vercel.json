@@ -16,10 +16,10 @@
     {"source": "/software-testing/:match*", "destination": "https://fix-a-bug-software-testing.vercel.app/:match*"},
 
     {"source": "/security-testing", "destination": "https://fix-a-bug-security-testing-zyaf.vercel.app/"},
-    {"source": "/security-testing/:match*", "destination": "https://fix-a-bug-security-testing-zyaf.vercel.app/:match*"}
+    {"source": "/security-testing/:match*", "destination": "https://fix-a-bug-security-testing-zyaf.vercel.app/:match*"},
     
     {"source": "/performance-testing", "destination": "https://fix-a-bug-performance-testing.vercel.app/"},
-    {"source": "/performance-testing/:match*", "destination": "https://fix-a-bug-performance-testing.vercel.app/:match*"}
+    {"source": "/performance-testing/:match*", "destination": "https://fix-a-bug-performance-testing.vercel.app/:match*"},
     ]
 }
 
